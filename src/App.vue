@@ -2,7 +2,7 @@
   <nav class="navbar navbar-expand navbar-light bg-light">
     <div class="nav navbar-nav">
       <router-link :to="{ name: 'Cars' }" class="nav-item nav-link active">
-        Cars
+        Gregslist
       </router-link>
       <!-- <router-link class="nav-item nav-link" :to="{ name: 'About' }">
         About

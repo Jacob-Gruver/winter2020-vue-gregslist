@@ -2,7 +2,7 @@
   <div class="cars-page container-fluid">
     <div class="row">
       <div class="col text-center">
-        <h1><img alt="Vue logo" src="../assets/logo.png" class="logo" />ars</h1>
+        <h1><img alt="Vue logo" src="../assets/logo.png" class="logo" /></h1>
       </div>
     </div>
     <div class="row">
@@ -138,8 +138,8 @@ export default {
 </script>
 
 <style lang="scss">
-  .logo {
-   transform: rotateZ(90deg);
-   height: 1em
-  }
+  // .logo {
+  //  transform: rotateZ(90deg);
+  //  height: 1em
+  // }
 </style>
